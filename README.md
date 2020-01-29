@@ -16,6 +16,9 @@ Un site e-commerce avec moyen de paiement
 > Création de l’interface utilisateur via HTML et CSS en responsive
 
 > Mise en place du Backend pour rendre les pages dynamiques
+
 > Mise en place de la mécanique du panier pour ajouter ou supprimer un item
+
 > Mise en place de la mécanique des sessions pour lier un panier à un utilisateur
+
 > Intégration d’un moyen de paiement pour valider la commande
