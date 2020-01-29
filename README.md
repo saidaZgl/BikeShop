@@ -5,8 +5,8 @@ Un site e-commerce avec moyen de paiement
 # En terme de fonctionnalités:
 
 - Mettre en place une interface utilisateur responsive
-- Gérer un catalogue produit
-- Mettre en place un panier:
+- Gérer un catalogue produits
+- Mettre en place un panier
 - Ajouter de produit
 - Modifier la quantité
 - Supprimer un produit
