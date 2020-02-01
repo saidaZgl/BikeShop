@@ -1,71 +1,72 @@
+/* ------ Body ---- */
+
 body {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
+    background-color: #ffffff;
+    font-family: 'Darker Grotesque', sans-serif;
 }
 
-h1 {
-    font-size: 28px;
-}
+/* ---------- Home page -------------- */
 
-#card-header {
-    background-color: #343A40;
-    padding: 10px;
-    color: #FFFFFF;
-}
-
-#shop-header {
-    background-color: #343A40;
-    color: #FFFFFF;
-}
-
-#logo-header {
-    width: 50px;
-}
-
-#shop-background {
-    height: 150px;
+.jumbotron {
     background-image: url('/images/bike-background.jpg');
     background-size: cover;
     background-position: center;
-    margin-bottom: 30px;
+    height: 150px;
 }
 
-.breadcrumb {
-    margin-top: 30px;
+
+.navbar {
+    padding: 0px;
+    color: #FFFFFF;
+
 }
 
-#card-breadcrumb {
-    margin-top: 30px;
-    font-size: 12px;
+.navbar:hover {
+    color: #FFFFFF;
 }
 
-.card-product {
-    padding-top: 15px;
-    padding-bottom: 15px;
-    border-bottom: 1px solid #F2F2F2;
-    background-color: #fcfcfc;
+.navbar:link {
+    text-decoration: none;
 }
 
-#card-total {
-    border-bottom: 1px solid #F2F2F2;
-    padding-top: 7px;
-    padding-bottom: 7px;
-    font-weight: 700;
+.logo {
+    margin-left: 10px;
 }
 
-#card-checkout {
-    padding-top: 7px;
+
+/* ----- Shop page ---------- */
+
+.header-shop {
+    height: 40px;
+    padding-left: 20px;
 }
 
-.bike-picture {
-    width: 170px;
+.icon-basket {
+    margin-right: 5px;
 }
 
-.shop-price {
-    font-size: 16px;
-    font-weight: 700;
+.ariane {
+    margin-top: 25px;
 }
 
-.bike-card {
-    margin-bottom: 15px;
+.basket-img {
+    width: 100px;
+}
+
+.basket-item {
+    background-color: #F8F8F8;
+}
+
+.total-box {
+    font-weight: bold;
+
+}
+
+.btn-checkout {
+    font-weight: bold;
+}
+
+.no-article {
+    color: crimson;
+    font-style: italic;
 }
