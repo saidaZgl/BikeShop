@@ -1,6 +1,8 @@
 var express = require("express");
 var router = express.Router();
 
+const stripe = require("stripe")("sk_test_GzxfH0sLQHk3Ff7nPxq30a0p00yWgL6KTH");
+
 let dataBike = [
   {
     name: "BIKO45",
