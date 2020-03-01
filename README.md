@@ -1,6 +1,6 @@
 <h1 align="center">Bike Shop</h1>
 
-<h2>Un site e-commerce avec moyen de paiement</h2>
+<h3 align="center">Un site e-commerce avec moyen de paiement</h3>
 
 <h2 align="center">
   <img src="public/images/bike-shop-home.png" style="max-width:100%" alt="bike-shop-home" />
