@@ -2,6 +2,20 @@
 
 Un site e-commerce avec moyen de paiement
 
+<h1 align="center">Bike Shop</h1>
+
+<h2 align="center">
+  <img src="public/images/bike-shop-home.png" style="max-width:100%" alt="bike-shop-home" />
+</h2>
+
+<h2 align="center">
+  <img src="public/images/dashbord.png" style="max-width:100%" alt="bike-shop-dasbord-home" />
+</h2>
+
+<h2 align="center">
+  <img src="public/images/stripe.png" style="max-width:100%" alt="bike-shop-tripe-home" />
+</h2>
+
 # En terme de fonctionnalités:
 
 - Mettre en place une interface utilisateur responsive
