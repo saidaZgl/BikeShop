@@ -1,4 +1,4 @@
-<h1 align="center">Bike Shop</h1>
+<h1 align="center">Bike Shop - Recommend</h1>
 
 <h3 align="center">Un site e-commerce avec moyen de paiement</h3>
 
